@@ -42,9 +42,12 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 <img width="802" height="233" alt="Screenshot 2025-10-27 214116" src="https://github.com/user-attachments/assets/8d9e922d-d643-40af-b139-ae9a5b7404e3" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="793" height="282" alt="Screenshot 2025-10-27 214242" src="https://github.com/user-attachments/assets/2c0246aa-0f60-4617-9a4d-a5686e65b97b" />
 
 **RESULTS**
+Thus the Serial-in and Serial-out Register is designed and is verified using
+Quartus software.
